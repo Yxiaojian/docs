@@ -1,6 +1,6 @@
 module.exports = {
   title: "帮助文档",
-  base: "",
+  base: "docs",
   dest: "public",
   markdown: {
     lineNumbers: true,
